@@ -33,7 +33,10 @@ style: hacker
 plugins:
   - jekyll-feed
 
+header_pages:
+  - index.md
 
+footer: 'a black hole of book reviews from Ben Smith.`
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
