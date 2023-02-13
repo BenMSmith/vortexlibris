@@ -35,6 +35,7 @@ plugins:
 
 header_pages:
   - index.md
+  - about.md
 
 footer: 'a black hole of book reviews from Ben Smith.`
 # Exclude from processing.
