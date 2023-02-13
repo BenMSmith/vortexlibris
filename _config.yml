@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Vortex Libris
+#title: Vortex Libris
 email: bside.boston@gmail.com
 description: Book reviews from Ben Smith
 baseurl: /vortexlibris/
