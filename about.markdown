@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Vortex Libris is a project by [Ben Smith](http://goodatinter.net) where the author revisits 90s contemporary Christian ephemera from an exvangelical lens.
+Vortex Libris is a project by [Ben Smith](http://goodatinter.net) where the author revisits 90s contemporary Christian ephemera from an ex-vangelical lens.
 
 ## Why Vortex Libris?
 
