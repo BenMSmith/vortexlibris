@@ -18,12 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-#title: Vortex Libris
-email: bside.boston@gmail.com
+title: Vortex Libris
 description: Book reviews from Ben Smith
 baseurl: /vortexlibris/
 url: "https://www.goodatinter.net" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: BenMSmith
 
 # Build settings
 # theme: minima
