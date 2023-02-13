@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Vortex Libris is a project by [Ben Smith](http://goodatinter.net) where the author revisits 90s contemporary Christian ephemera from an exvangelical lens.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Why Vortex Libris?
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I picked this domain up after we decided to not use it for Mystery Hunt 2022, since I liked it. Given that I'm dealing with memory-holed literature, something riffing on both "vortex" and "ex libris" felt nice.
